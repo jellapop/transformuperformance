@@ -1,13 +1,5 @@
                                                       Transform U Performance
 is an all-in-one strength training and skill development app for athletes. The app includes strength, speed, and power exercises along with baseball/softball drills and resources to help players develop. The app also includes nutrition, recruiting, and mindset performance resources for athletes to become as well-rounded as possible. 
-In the app you'll get:
-
--Custom training plans
--Video demonstrations
--Tracking tools
--Nutrition guidance
--Mindset resources
--Recruiting resources
 
 <img width="1206" height="1493" alt="image" src="https://github.com/user-attachments/assets/e93d04a7-9300-43e1-a0ad-8d7f1c048a51" />
 <div class="container" style="display:flex; gap:40px; flex-wrap:wrap;">
